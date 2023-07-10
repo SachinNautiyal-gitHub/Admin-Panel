@@ -1,0 +1,35 @@
+.container {
+
+    display: flex;
+    height: 35vh;
+    width: 30%;
+    border: 1px solid grey;
+    border-radius: 12px;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+
+.chart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.filter select{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80px;
+
+}

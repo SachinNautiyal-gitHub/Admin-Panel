@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    width: 45%;
+    height: 30vh;
+    -webkit-box-shadow: 6px 10px 19px 10px rgba(33, 34, 34, 0.83);
+    -moz-box-shadow: 6px 10px 19px 10px rgba(82, 84, 84, 0.83);
+    box-shadow: 6px 10px 19px 10px rgba(42, 45, 44, 0.83);
+
+
+    
+}
+
+.main{
+    display: flex;
+    padding: 12px;
+}
+
+.chart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.filter select{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80px;
+
+}
